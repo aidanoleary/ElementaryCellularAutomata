@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="ElementaryCellularAutomata">
+    <output-path>$PROJECT_DIR$/../ElementaryCellularAutomata/out/artifacts/ElementaryCellularAutomata</output-path>
+    <root id="root">
+      <element id="module-output" name="ElementaryCellularAutomata" />
+    </root>
+  </artifact>
+</component>
