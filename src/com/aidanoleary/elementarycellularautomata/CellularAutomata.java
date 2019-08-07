@@ -59,6 +59,10 @@ public class CellularAutomata {
         return _currentState;
     }
 
+    public ArrayList<int[]> getPreviousStates() {
+        return _previousStates;
+    }
+
     public void registerDisplay(IDisplay displayObserver) {
         _displayObservers.add(displayObserver);
     }
